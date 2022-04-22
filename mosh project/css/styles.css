@@ -441,3 +441,12 @@ a {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+
+/* testimonial */
+.testimonial {
+  padding: 3rem;
+}
+
+.testimonial__image {
+  width: 100%;
+}
