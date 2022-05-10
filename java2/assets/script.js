@@ -11,7 +11,7 @@ function toggleBulb() {
      myImage.src="assets/bulbon.png"  
     }
     else if (switchBtnInput.checked === false) {
-        myImage.src="assets/bulboff.pngxdcfvg"
+        myImage.src="assets/bulboff.png"
     }
 }
 
